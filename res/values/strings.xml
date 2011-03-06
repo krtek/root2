@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestActivity2!</string>
+    <string name="app_name">root2</string>
+    <string name="notes">Poznámka:</string>
+    <string name="save">Uložit</string>
+    <string name="cancel">Zrušit</string>
+</resources>
